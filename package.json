@@ -1,0 +1,22 @@
+{
+  "name": "my_second_express",
+  "version": "1.0.0",
+  "description": "My Second Express + Node App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "Web",
+    "Server",
+    "Javascript"
+  ],
+  "author": "Peter Jones",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
